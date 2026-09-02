@@ -1,0 +1,5 @@
+.venv/
+.streamlit/secrets.toml
+wallet/
+__pycache__/
+*.pyc
